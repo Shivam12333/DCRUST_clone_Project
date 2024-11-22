@@ -1,0 +1,111 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+.intro {
+  padding-left: 0%;
+  height: 100px;
+  width: 950px;
+  color: #ffff;
+  background-color: #008dde;
+}
+.padd {
+  background-color: #008dde;
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font: bold 20px Courier New, monospace;
+  text-decoration: uppercase;
+  letter-spacing: 3px;
+  padding: 10px 0px !important;
+  margin: 0px !important;
+}
+#Welcome {
+  margin-left: 500px;
+  margin-top: 1px;
+  height: 55px;
+  width: 600px;
+}
+#kendr{
+  margin-left: 500px;
+  height: 400px;
+  width: 500px;
+}
+span {
+  word-spacing: 10px;
+}
+.first {
+  font-weight: 800;
+  margin: 30px 0px 30px 0px;
+  text-align: center;
+  font-size: large;
+  font-family:cursive;
+}
+.second {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-weight: 800;
+  font-size: 80px;
+  display: flex;
+  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: #008dde;
+  font-family:cursive;
+}
+.three{
+  margin-right: 1rem;
+  font-weight: 800;
+  font-family: cursive;
+
+}
+.four{
+    margin-left: 2rem;
+    font-weight: 800;
+    font-family: cursive;
+}
+.non ul {
+  margin-left: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 55%;
+  height: 50px;
+  background-color: hsl(222, 33%, 92%);
+}
+div ul li a {
+  text-decoration: none; /*  this is for removing underline */
+}
+ul {
+  list-style-type: none; /* this is for removing point on list bubble */
+}
+.border {
+  border: 2px solid transparent;
+}
+.border:hover {
+  border-left: 2px solid wheat;
+  border-right: 2px solid wheat;
+  border-bottom: 2px solid black;
+}
+.first a {
+  text-decoration: none;
+}
+.second a {
+  text-decoration: none;
+}
+.second four a {
+  margin-left: 20px;
+}
+#textareA{
+  margin: 20px 300px 0px 350px;
+  height: 250px;
+  width: 800px;
+  border:2px solid green;
+  /* border-style: none; */
+  /* background-color: aliceblue; */
+}
